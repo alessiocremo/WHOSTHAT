@@ -1,0 +1,3 @@
+EXPORTS
+    Generate_Random_Array @1
+    Get_Best_Score @2

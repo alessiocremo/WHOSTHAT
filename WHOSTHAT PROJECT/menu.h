@@ -1,0 +1,5 @@
+#define IDR_MYMENU 101
+#define ID_FILE_EXIT 9001
+#define ID_CLEAR_HISTORY 9002
+#define ID_HELP 9003
+#define ID_CREDITS 9004

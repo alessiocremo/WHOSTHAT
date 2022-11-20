@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1668446564 source:c:\users\pc\desktop\erasmustudies\windowsapi\project\whosthat project\whosthatdll\whosthatdll\whosthatdll.c
+	<stdio.h>
+	<stdlib.h>
+	"whosthatdll.h"
+
+1668446564 c:\users\pc\desktop\erasmustudies\windowsapi\project\whosthat project\whosthatdll\whosthatdll\whosthatdll.h
+
+1668457729 source:c:\users\pc\desktop\erasmustudies\windowsapi\project\whosthat project\whosthatdll\whosthatdll.c
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"whosthatdll.h"
+
+1668455444 c:\users\pc\desktop\erasmustudies\windowsapi\project\whosthat project\whosthatdll\whosthatdll.h
+	<windows.h>
+

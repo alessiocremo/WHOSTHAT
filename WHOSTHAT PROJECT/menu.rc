@@ -1,0 +1,12 @@
+#include "menu.h"
+
+IDR_MYMENU MENU
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "E&xit", ID_FILE_EXIT
+    END
+    MENUITEM "C&lear History", ID_CLEAR_HISTORY
+    MENUITEM "H&elp", ID_HELP
+    MENUITEM "C&redits", ID_CREDITS
+END

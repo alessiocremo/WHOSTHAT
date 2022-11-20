@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1668202764 source:c:\users\pc\desktop\erasmustudies\windowsapi\project\transformat\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<time.h>
+	<wchar.h>
+	<dirent.h>
+
+1668943685 source:c:\users\pc\desktop\erasmustudies\windowsapi\project\whosthat project\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<time.h>
+	<wchar.h>
+	<dirent.h>
+	"menu.h"
+
+1668449083 c:\users\pc\desktop\erasmustudies\windowsapi\project\whosthat project\whosthatdll.h
+	<windows.h>
+
+1668449083 source:c:\users\pc\desktop\erasmustudies\windowsapi\project\whosthat project\whosthatdll.c
+	<stdio.h>
+	<stdlib.h>
+	"whosthatdll.h"
+
+1668449415 c:\users\pc\desktop\erasmustudies\windowsapi\project\whosthat project\proviamo.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668449258 source:c:\users\pc\desktop\erasmustudies\windowsapi\project\whosthat project\proviamo.c
+	<stdio.h>
+	<stdlib.h>
+	"proviamo.h"
+
+1668943975 c:\users\pc\desktop\erasmustudies\windowsapi\project\whosthat project\menu.h
+
+1668943968 source:c:\users\pc\desktop\erasmustudies\windowsapi\project\whosthat project\menu.rc
+	"menu.h"
+
