@@ -1,3 +1,3 @@
-WHOSTHAT is a game developed entirely by myself through C language and Windows API. Its goal is to guess the displayed celebrities' names. 
-The player can ask for help or skip a celebrity. This operations, together with giving as input the wrong name, will make him lose a certain amount of points
-which will vary based on the number of rounds of the game, which will also determine how many points the user is going to get for each correct answer. 
+WHOSTHAT is a game entirely developed by me using the C programming language and the Windows API. The objective of the game is to guess the names of displayed celebrities.
+Players can request hints or skip a celebrity; however, these actions, along with submitting an incorrect answer, will result in a loss of points.
+The number of points deducted or awarded varies depending on the number of rounds in the game. This also determines the points earned for each correct answer.
